@@ -1,0 +1,70 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    text-align: center;
+    border: thick double #044343;
+    background-color: #E4E4E4;
+    color: #044343;
+}
+
+main {
+    background-color: #045757;
+}
+
+body {
+    background-color: #E4E4E4;
+    color: #222222
+}
+
+footer {
+    text-align: center;
+    border: thick double #044343;
+    background-color: #E4E4E4;
+    color: #044343;
+}
+
+nav {
+    color:  #222222;
+}
+
+nav a:hover {
+    color: #E4E4E4;
+    background-color: #045757;
+}
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    color: #E4E4E4;
+}
+
+h3 {
+    color: #E4E4E4;
+}
+
+p {
+    line-height: 150%;
+}
+
+section {
+    background-color: #F7DBF0;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+ol {
+    list-style-type: circle;
+}
+
+.book-title {
+    font-style: italic;
+}
+
+
